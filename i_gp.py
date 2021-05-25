@@ -130,4 +130,3 @@ print('Ratio liczby ludności do powierzchni dla województwa: \n'
       'dolnośląskiego:', int(f[15]))
 
 
-# dopsiuje cos sobie
